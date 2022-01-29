@@ -49,10 +49,10 @@ if (name === 'Mary') {
 // We make a variable called code and set it to 123 as a number.
 // We check if the variable code strictly equals 123, it does.
 // Since the if statment for the value of code is true, we run code setting the
-// variable secret to the string "super" and multiplying the variable code by 2.
+// variable secret to the string "super" and multiply the variable code by 2.
 // We check to see if the variable code is now greater than 250, if it is,
 // the variable secret will be set to duper. Code is not greater than 250,
-// because it is 246
+// because it is 246.
 // We console.log the variable secret, which is 'super'.
 //
 
@@ -87,8 +87,8 @@ console.log(secret)
 // console.log anything, instead we check the next condition.
 // If isStudent is true we console.log 'Welcome to Prime!'. It is true and
 // we do console.log 'Welcome to Prime!'.
-// If none of the first three conditions would have been met, the default
-// console.log output would be 'How about the weather?'
+// If none of the first three conditions would have been met, the
+// console.log output would have beeen 'How about the weather?'.
 
 //CODE
 /*
@@ -167,7 +167,8 @@ if (mix === true) {
 // -- they are so we console.log 'throw away the food!'
 
 // FIX - We should set a variable named time with a value of 4, according
-// to the instructions. In the code, it is set to a constant, not a variable.
+// to the instructions. In the code, it is set to a constant variable,
+not a variable.
 
 /*
 let temp = 40;
@@ -187,7 +188,8 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 // FIX - We should set a variable named minAge with a value of 21, according
-// to the instructions. In the code, it is set to a constant, not a variable.
+// to the instructions. In the code, it is set to a constant variable,
+// not a variable.
 
 /*
 let age = 21;
@@ -198,7 +200,7 @@ minAge. The code asks if minAGE is less than or equal to age, which would yield
 the same result, but should probably be changed for clarity. Since either
 statment is true, console.log for the if statment should be 'enter', not
 'no entry'. Presumably, console.log for the if statment should be 'no entry',
-but I don't have enough information to say for certain. 
+but I don't have enough information to say for certain.
 
 if(minAge <= age) {
   console.log('no entry');
